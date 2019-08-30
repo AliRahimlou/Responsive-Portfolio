@@ -218,9 +218,10 @@ container {
 	}
 
 		name {
-			margin: 0 0 0 0;
-			width: 92.2%;
+			margin: 0;
+			width: 590px;
 			left: 0;
+			top: 0;
 			text-align: center;	
 			
 		  }
@@ -229,7 +230,8 @@ container {
 		margin: 80 0 0 0;
 		text-align: center;
 		left: 0;
-		width: 90.8%;
+		top: 0;
+		width: 580px;
 		padding: 30px;
 		background-color: #ffffff;
 		border-bottom: 3px solid #cccccc;
@@ -238,7 +240,7 @@ container {
 	  #aboutMe {
 		  width: 565px;
 		  font-size: 18px;
-		  margin: 15% 0 10% 1%;
+		  margin: 25% 0 20% 1%;
 		  }
 		  #pp{
 			  
